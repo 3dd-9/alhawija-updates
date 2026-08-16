@@ -1,10 +1,10 @@
 {
-  "versionCode": 440,
-  "versionName": "3.7.75",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.7.75/alhawija-release.apk",
-  "sha256": "25fc87b040d1223fc3d3f861306f36ecd36bf79fde88d26e19f8e6065ee46509",
-  "releaseNotes": "إضافة زر إيقاف الأذان من الشاشة المنبثقة، تحسين إشعارات التحديث، حفظ APK في مجلد التنزيلات، فتح التثبيت تلقائيًا بعد منح الصلاحية، ومعالجة فشل التنزيل.",
+  "versionCode": 441,
+  "versionName": "3.8.0",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.0/alhawija-release.apk",
+  "sha256": "057d6efed44fa1044d6163f12311d78056d6c280138a3660922c2de36fbfabea",
+  "releaseNotes": "إضافة إعداد أولي للموقع وطريقة الحساب والمذهب وصيغة الوقت، تحديث مواقيت الشهر عبر الإنترنت، إعداد صوت مستقل لكل صلاة، مدة الأذان والكتم المؤقت، زر فتح الإعدادات من شاشة الأذان، ودجت صغيرة للصلاة القادمة، عدّاد متبقٍ، بوصلة قبلة دوارة، أذكار، وإشعارات تحديث عصرية مع التقدم وإعادة المحاولة.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5111514
+  "fileSize": 5121918
 }
