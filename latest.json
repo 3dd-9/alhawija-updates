@@ -1,10 +1,10 @@
 {
-  "versionCode": 449,
-  "versionName": "3.8.8",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.8/alhawija-release.apk",
-  "sha256": "3cbdf6ac800b1d015c02b45b24d0586053853408671ef819c429cccc838c9fc2",
-  "releaseNotes": "تصميم إشعار المواقيت أفقي وعصري: بطاقات مرتبة للفجر والشروق والظهر والعصر والمغرب والعشاء، شريط للصلاة القادمة، وإبراز الصلاة القادمة باللون الذهبي.",
+  "versionCode": 450,
+  "versionName": "3.8.9",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.9/alhawija-release.apk",
+  "sha256": "ac5c152948d221fecf3184e40f42cf518630293b0f370a6cebd494cae46ac1a7",
+  "releaseNotes": "إضافة تحديث محلي كل دقيقة للإشعار والودجات، مع إعادة جدولة التحديث بعد كل نبضة، وقراءة المواقيت مباشرة من prayers.json دون أي اتصال بالإنترنت.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5127206
+  "fileSize": 5128578
 }
