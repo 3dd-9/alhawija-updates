@@ -1,0 +1,10 @@
+{
+  "versionCode": 435,
+  "versionName": "3.7.70",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.7.70/alhawija-release.apk",
+  "sha256": "81987bbe81cb0f5d410d6cc93339e5c31f37a00ea2696e6ad5ed0a1d460abfe7",
+  "releaseNotes": "تحسين ترتيب الودجات، تشغيل الأذان التلقائي بإذن المستخدم، دعم الصوت المخصص، وتحسينات الاستقرار والتحديثات.",
+  "minVersionCode": 0,
+  "isForceUpdate": false,
+  "fileSize": 5109130
+}
