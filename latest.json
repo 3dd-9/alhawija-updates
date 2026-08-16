@@ -1,10 +1,10 @@
 {
-  "versionCode": 452,
-  "versionName": "3.9.1",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.1/alhawija-release.apk",
-  "sha256": "d0efcf464396eacc12a2e6ca673e6e4e909ec0cb9b744d9f1ee3032a231cca7d",
-  "releaseNotes": "تبسيط إشعار المواقيت: حذف العنوان والتاريخ وشريط الصلاة القادمة، والإبقاء على صف بطاقات الفجر والشروق والظهر والعصر والمغرب والعشاء فقط مع استمرار تمييز الصلاة القادمة.",
+  "versionCode": 453,
+  "versionName": "3.9.2",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.2/alhawija-release.apk",
+  "sha256": "0de26cdd92ebcafaf68fc5365fab7c171ab94146475d64855dfcfedd4ade9af7",
+  "releaseNotes": "إشعار أذان مستقل بتصميم واضح وزر إيقاف مباشر. الملف الصوتي المخصص ينتهي طبيعيًا، ونغمة الهاتف تستمر حتى الإيقاف اليدوي. إزالة مدة الأذان المحددة.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5128418
+  "fileSize": 5130774
 }
