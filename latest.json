@@ -1,10 +1,10 @@
 {
-  "versionCode": 445,
-  "versionName": "3.8.4",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.4/alhawija-release.apk",
-  "sha256": "5bc52d42fe6adf0964c1b3017122753448e01e7a154c59e0992d2acebcbbc628",
-  "releaseNotes": "إصلاح الإغلاق الفعلي عند فتح التطبيق: أزيل تشغيل الجدولة والودجات وخدمة الأذان من مسار فتح الواجهة بالكامل. تظهر الواجهة أولًا، وتبقى الخدمات مرتبطة بالإعداد والإنذارات فقط. مواقيت الصلاة ثابتة من prayers.json الداخلي.",
+  "versionCode": 446,
+  "versionName": "3.8.5",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.5/alhawija-release.apk",
+  "sha256": "c9017ffa97f5056a03cd1c87991725d7b0c0db19568d9c8254954547f3ccfdd9",
+  "releaseNotes": "إصلاح ظهور مواقيت الصلاة داخل الإشعار: الإشعار يقرأ prayers.json مباشرة ويعرض ملخص المواقيت حتى قبل مزامنة بيانات WebView، مع إبقاء المواقيت ثابتة دون أي مصدر خارجي.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5121234
+  "fileSize": 5121714
 }
