@@ -1,10 +1,10 @@
 {
-  "versionCode": 439,
-  "versionName": "3.7.74",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.7.74/alhawija-release.apk",
-  "sha256": "8fbf2b650d0312ee7d6417e8097b92594b5fc8369f2daaac02f459aafb295a99",
-  "releaseNotes": "إصلاح ظهور اسم الصلاة القادمة ووقتها داخل بطاقة الودجت الخضراء وتحسين وضوح الألوان.",
+  "versionCode": 440,
+  "versionName": "3.7.75",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.7.75/alhawija-release.apk",
+  "sha256": "25fc87b040d1223fc3d3f861306f36ecd36bf79fde88d26e19f8e6065ee46509",
+  "releaseNotes": "إضافة زر إيقاف الأذان من الشاشة المنبثقة، تحسين إشعارات التحديث، حفظ APK في مجلد التنزيلات، فتح التثبيت تلقائيًا بعد منح الصلاحية، ومعالجة فشل التنزيل.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5109606
+  "fileSize": 5111514
 }
