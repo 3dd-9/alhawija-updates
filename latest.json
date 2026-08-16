@@ -1,10 +1,10 @@
 {
-  "versionCode": 447,
-  "versionName": "3.8.6",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.6/alhawija-release.apk",
-  "sha256": "cb962d8c901a58cfa32061a91e479d9c086673e10b901f59cf032c9d8a95461a",
-  "releaseNotes": "إصلاح عدم ظهور إشعار المواقيت: قناة إشعار مستقلة، أيقونة أندرويد متوافقة، إشعار قياسي قابل للتوسيع، وطلب صلاحية الإشعارات تلقائيًا مع زر يدوي لإظهاره من الإعدادات.",
+  "versionCode": 448,
+  "versionName": "3.8.7",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.7/alhawija-release.apk",
+  "sha256": "d4b109f0660d5918a9d3c5410293c5a9eade994ffbb5dd19d9d53ae0664e66e6",
+  "releaseNotes": "إعادة ترتيب الواجهة: قسم واحد لحفظ ومشاركة المواقيت، زر الإعدادات أولًا، ثم حفظ صورة المواقيت، ثم مشاركة مواقيت الصلاة في الأسفل. مشاركة تحميل التطبيق أصبحت آخر عنصر داخل الإعدادات.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5124154
+  "fileSize": 5124106
 }
