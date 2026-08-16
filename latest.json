@@ -1,10 +1,10 @@
 {
-  "versionCode": 441,
-  "versionName": "3.8.0",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.0/alhawija-release.apk",
-  "sha256": "057d6efed44fa1044d6163f12311d78056d6c280138a3660922c2de36fbfabea",
-  "releaseNotes": "إضافة إعداد أولي للموقع وطريقة الحساب والمذهب وصيغة الوقت، تحديث مواقيت الشهر عبر الإنترنت، إعداد صوت مستقل لكل صلاة، مدة الأذان والكتم المؤقت، زر فتح الإعدادات من شاشة الأذان، ودجت صغيرة للصلاة القادمة، عدّاد متبقٍ، بوصلة قبلة دوارة، أذكار، وإشعارات تحديث عصرية مع التقدم وإعادة المحاولة.",
+  "versionCode": 443,
+  "versionName": "3.8.2",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.2/alhawija-release.apk",
+  "sha256": "0299e11bf055300fb17200001082b0625e777142486475234d8b6de73a3a1618",
+  "releaseNotes": "تثبيت مواقيت الصلاة نهائيًا على ملف المواقيت الموجود داخل التطبيق. لا يتم جلب المواقيت أو تغييرها من الإنترنت. الإنترنت يبقى مخصصًا لتحديثات التطبيق فقط.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5121918
+  "fileSize": 5121266
 }
