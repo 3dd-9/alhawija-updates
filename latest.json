@@ -1,10 +1,10 @@
 {
-  "versionCode": 444,
-  "versionName": "3.8.3",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.3/alhawija-release.apk",
-  "sha256": "e2de55fdf72830d22076d7a044f2e3dd6a5667a4a8157d9f263f6d6e55be4dca",
-  "releaseNotes": "إصلاح خروج التطبيق مباشرة عند فتحه: عرض الواجهة أولًا ثم تشغيل المهام الخلفية وخدمة الأذان بأمان، مع عزل أي فشل في خدمة النظام عن التطبيق الرئيسي. مواقيت الصلاة ثابتة من prayers.json الداخلي فقط.",
+  "versionCode": 445,
+  "versionName": "3.8.4",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.4/alhawija-release.apk",
+  "sha256": "5bc52d42fe6adf0964c1b3017122753448e01e7a154c59e0992d2acebcbbc628",
+  "releaseNotes": "إصلاح الإغلاق الفعلي عند فتح التطبيق: أزيل تشغيل الجدولة والودجات وخدمة الأذان من مسار فتح الواجهة بالكامل. تظهر الواجهة أولًا، وتبقى الخدمات مرتبطة بالإعداد والإنذارات فقط. مواقيت الصلاة ثابتة من prayers.json الداخلي.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5121322
+  "fileSize": 5121234
 }
