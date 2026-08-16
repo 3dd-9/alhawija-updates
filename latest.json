@@ -1,10 +1,10 @@
 {
-  "versionCode": 450,
-  "versionName": "3.8.9",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.9/alhawija-release.apk",
-  "sha256": "ac5c152948d221fecf3184e40f42cf518630293b0f370a6cebd494cae46ac1a7",
-  "releaseNotes": "إضافة تحديث محلي كل دقيقة للإشعار والودجات، مع إعادة جدولة التحديث بعد كل نبضة، وقراءة المواقيت مباشرة من prayers.json دون أي اتصال بالإنترنت.",
+  "versionCode": 451,
+  "versionName": "3.9.0",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.0/alhawija-release.apk",
+  "sha256": "f477376815e0adcfd50c546607cc81dc3bed5fe0b058204cd2943034ac387cac",
+  "releaseNotes": "إشعار مواقيت مستمر وعالي الأولوية، زر الإعدادات في أعلى اليمين مع درج جانبي، حذف إعدادات الأسفل، ومشاركة المواقيت كصورة التطبيق فقط في أسفل الواجهة.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5128578
+  "fileSize": 5129210
 }
