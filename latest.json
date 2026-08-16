@@ -1,10 +1,10 @@
 {
-  "versionCode": 448,
-  "versionName": "3.8.7",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.7/alhawija-release.apk",
-  "sha256": "d4b109f0660d5918a9d3c5410293c5a9eade994ffbb5dd19d9d53ae0664e66e6",
-  "releaseNotes": "إعادة ترتيب الواجهة: قسم واحد لحفظ ومشاركة المواقيت، زر الإعدادات أولًا، ثم حفظ صورة المواقيت، ثم مشاركة مواقيت الصلاة في الأسفل. مشاركة تحميل التطبيق أصبحت آخر عنصر داخل الإعدادات.",
+  "versionCode": 449,
+  "versionName": "3.8.8",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.8.8/alhawija-release.apk",
+  "sha256": "3cbdf6ac800b1d015c02b45b24d0586053853408671ef819c429cccc838c9fc2",
+  "releaseNotes": "تصميم إشعار المواقيت أفقي وعصري: بطاقات مرتبة للفجر والشروق والظهر والعصر والمغرب والعشاء، شريط للصلاة القادمة، وإبراز الصلاة القادمة باللون الذهبي.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5124106
+  "fileSize": 5127206
 }
