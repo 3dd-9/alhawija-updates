@@ -1,10 +1,10 @@
 {
-  "versionCode": 453,
-  "versionName": "3.9.2",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.2/alhawija-release.apk",
-  "sha256": "0de26cdd92ebcafaf68fc5365fab7c171ab94146475d64855dfcfedd4ade9af7",
-  "releaseNotes": "إشعار أذان مستقل بتصميم واضح وزر إيقاف مباشر. الملف الصوتي المخصص ينتهي طبيعيًا، ونغمة الهاتف تستمر حتى الإيقاف اليدوي. إزالة مدة الأذان المحددة.",
+  "versionCode": 454,
+  "versionName": "3.9.3",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.3/alhawija-release.apk",
+  "sha256": "d6f283b071571d787c30cbdfab68d0c0360155dfe960ff8461ca4da5d276242d",
+  "releaseNotes": "إصلاح التحديث المستمر كل دقيقة للإشعار والودجات، وتفضيل prayers.json الحالي، وإضافة ودجة ثالثة للعدّاد التنازلي للصلاة القادمة مع تحديث دوري.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5130774
+  "fileSize": 5133930
 }
