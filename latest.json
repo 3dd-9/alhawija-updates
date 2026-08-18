@@ -1,10 +1,10 @@
 {
-  "versionCode": 456,
-  "versionName": "3.9.5",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.5/alhawija-release.apk",
-  "sha256": "2e82e72b1e27abaf357c3959554e76affb0aeed8b8418ad317a494bbe27f9e80",
-  "releaseNotes": "إبقاء تحديث الإشعار والودجات مستمرًا بعد إغلاق واجهة التطبيق عبر خدمة خلفية مستقلة، مع إعادة التشغيل عند الإقلاع وتغيّر الوقت، والاستمرار في قراءة المواقيت من prayers.json.",
+  "versionCode": 457,
+  "versionName": "3.9.6",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.6/alhawija-release.apk",
+  "sha256": "a271483792b0be34219838eff977a26dc96853b301e887f4d094e1be34181f75",
+  "releaseNotes": "إصلاح مشكلة استبدال إشعار الأذان بإشعار المواقيت أثناء التحديث كل دقيقة؛ يبقى إشعار الأذان وزر الإيقاف فعالين حتى انتهاء الأذان أو إيقافه يدويًا.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5135242
+  "fileSize": 5135210
 }
