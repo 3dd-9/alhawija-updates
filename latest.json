@@ -1,10 +1,10 @@
 {
-  "versionCode": 454,
-  "versionName": "3.9.3",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.3/alhawija-release.apk",
-  "sha256": "d6f283b071571d787c30cbdfab68d0c0360155dfe960ff8461ca4da5d276242d",
-  "releaseNotes": "إصلاح التحديث المستمر كل دقيقة للإشعار والودجات، وتفضيل prayers.json الحالي، وإضافة ودجة ثالثة للعدّاد التنازلي للصلاة القادمة مع تحديث دوري.",
+  "versionCode": 455,
+  "versionName": "3.9.4",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.4/alhawija-release.apk",
+  "sha256": "0f9e053b1467fab94edf8bf4ebc5ee56c7bd3bafc5f2c633d5c5d5e6e26545b1",
+  "releaseNotes": "تحديث تصميم ودجة العدّاد: اسم الصلاة القادمة أولاً، ثم خانة الساعات في اليسار وخانة الدقائق في اليمين. تم حذف وقت الصلاة والثواني من الودجة.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5133930
+  "fileSize": 5133906
 }
