@@ -1,7 +1,7 @@
 {
   "versionCode": 471,
   "versionName": "3.10.10",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.10/alhawija-release.apk",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.10/alhawija-release-3.10.10.apk",
   "sha256": "7b7bb9be23594dff2d31b06b154fbfd24e0459c1b9d6c8c19af5dbf083d83870",
   "releaseNotes": "إلغاء شاشة الأذان الكاملة عند حلول وقت الصلاة. يظهر الآن إشعار منبثق أعلى الشاشة باسم الصلاة وزر إيقاف الأذان، مع استمرار زر خفض الصوت الفيزيائي لإيقاف الصوت.",
   "minVersionCode": 0,
