@@ -1,10 +1,10 @@
 {
-  "versionCode": 463,
-  "versionName": "3.10.2",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.2/alhawija-release.apk",
-  "sha256": "2afc2c05d7482c95f07d569a52a135bcedb0bef5a5b694dd1d61ee0527c0e9d8",
-  "releaseNotes": "إصلاح مشاركة صورة مواقيت الصلاة عبر إضافة مسار FileProvider الصحيح ومنح تطبيقات المشاركة صلاحية قراءة الصورة. تم التحقق من توقيع APK بالمفتاح الخاص نفسه.",
+  "versionCode": 464,
+  "versionName": "3.10.3",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.3/alhawija-release.apk",
+  "sha256": "45cf82d27af9fe920f0b4aaaef2d7fcfbdf0eabc846779d685219fd3a31c1243",
+  "releaseNotes": "إعادة تصميم صورة المشاركة كبطاقة عمودية 1080×1350 تبدأ بعنوان مؤذن الحويجة وتعرض المواقيت حتى العشاء، مع تحسين زر إيقاف الأذان لإيقاف الصوت فورًا.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 11972402
+  "fileSize": 11973326
 }
