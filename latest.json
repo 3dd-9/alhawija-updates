@@ -1,10 +1,10 @@
 {
-  "versionCode": 458,
-  "versionName": "3.9.7",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.7/alhawija-release.apk",
-  "sha256": "a63d869ed6ecad3c57ced4b611c8c732183c6d421dbe32b424ade4b66f283850",
-  "releaseNotes": "تعريب أسماء الصلاة داخل إشعار وقت الصلاة وإعادة ترتيب إشعار الأذان بتخطيط RTL عصري مع إبراز اسم الصلاة وزر إيقاف الأذان.",
+  "versionCode": 459,
+  "versionName": "3.9.8",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.8/alhawija-release.apk",
+  "sha256": "d3b3be214156678cffa4a036c41aabc1cc66c41209767bdcbaa9fdd093414909",
+  "releaseNotes": "إضافة أربعة أصوات أذان مدمجة بأسماء المؤذنين مع معاينة واختيار وحفظ دون إنترنت، ودعم صوت MP3 مخصص من الجهاز.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5135918
+  "fileSize": 18799490
 }
