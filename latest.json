@@ -1,10 +1,10 @@
 {
-  "versionCode": 468,
-  "versionName": "3.10.7",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.7/alhawija-release.apk",
-  "sha256": "28b69c5a9295df0845633300e72b56a9dde11fc0a2718d1018d501ebbe347cdb",
-  "releaseNotes": "تقوية Release عبر R8 وتشويش الكود وتقليص الموارد، تشفير إعدادات التطبيق باستخدام Android Keystore، وفحص شهادة التوقيع الرسمية ومنع تشغيل النسخ المعدلة قدر الإمكان مع الحفاظ على التحديثات الرسمية.",
+  "versionCode": 469,
+  "versionName": "3.10.8",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.8/alhawija-release.apk",
+  "sha256": "a9a771b299e36fac12ec7317670ae07c455ae69f0c060c317a6c3cd0892cad16",
+  "releaseNotes": "إصلاح قص التاريخ في بطاقة مشاركة المواقيت، إضافة عبارة من تطبيق مؤذن الحويجة، وإضافة شعار Telegram ومعرف القناة @ARhubiq.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 9107640
+  "fileSize": 9107988
 }
