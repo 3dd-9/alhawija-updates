@@ -1,10 +1,10 @@
 {
-  "versionCode": 465,
-  "versionName": "3.10.4",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.4/alhawija-release.apk",
-  "sha256": "de968e646cf706056641c816cb77c723a7e500e722cc20ae55d4be2f8e15a067",
-  "releaseNotes": "ربط Firebase Analytics: تُحفظ أحداث فتح التطبيق محليًا عند انقطاع الإنترنت وتُرسل تلقائيًا إلى Firebase عند عودة الاتصال، دون التأثير على المواقيت أو الأذان دون إنترنت.",
+  "versionCode": 466,
+  "versionName": "3.10.5",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.5/alhawija-release.apk",
+  "sha256": "39ee70f56360b86b34dc468d21a50f73811a42f2e61562cca35eb2dcde1e24b0",
+  "releaseNotes": "إصلاح تشوه النص العربي في أعلى بطاقة المشاركة، انتظار اكتمال تشكيل الخط قبل التقاط الصورة، وحذف العبارة السفلية التي تحتوي على مواقيت محلية دون إنترنت.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 13749652
+  "fileSize": 13749764
 }
