@@ -1,10 +1,10 @@
 {
-  "versionCode": 462,
-  "versionName": "3.10.1",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.1/alhawija-release.apk",
-  "sha256": "bcf0f37776192fb039fb0ca051a7fd9621b36d4a195e5112de735c68e0fcbbf8",
-  "releaseNotes": "إعادة تنظيم الإعدادات إلى أقسام ذكية وعصرية: الأذان والصوت، التحديث والإشعارات، الودجات والمشاركة، وأدوات إضافية.",
+  "versionCode": 463,
+  "versionName": "3.10.2",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.2/alhawija-release.apk",
+  "sha256": "2afc2c05d7482c95f07d569a52a135bcedb0bef5a5b694dd1d61ee0527c0e9d8",
+  "releaseNotes": "إصلاح مشاركة صورة مواقيت الصلاة عبر إضافة مسار FileProvider الصحيح ومنح تطبيقات المشاركة صلاحية قراءة الصورة. تم التحقق من توقيع APK بالمفتاح الخاص نفسه.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 11972078
+  "fileSize": 11972402
 }
