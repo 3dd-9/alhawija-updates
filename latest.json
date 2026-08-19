@@ -1,10 +1,10 @@
 {
-  "versionCode": 461,
-  "versionName": "3.10.0",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.0/alhawija-release.apk",
-  "sha256": "fa9e76865fc9ca6621dc0a8e3c40fbec9ff29750af79be4871f013138a9d6163",
-  "releaseNotes": "إصلاح التحديث: يستطيع المستخدم الخروج أثناء تنزيل APK، ويظهر إشعار تقدّم ثم إشعار جاهزية؛ يبدأ التثبيت فقط عند ضغط المستخدم على الإشعار.",
+  "versionCode": 462,
+  "versionName": "3.10.1",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.1/alhawija-release.apk",
+  "sha256": "bcf0f37776192fb039fb0ca051a7fd9621b36d4a195e5112de735c68e0fcbbf8",
+  "releaseNotes": "إعادة تنظيم الإعدادات إلى أقسام ذكية وعصرية: الأذان والصوت، التحديث والإشعارات، الودجات والمشاركة، وأدوات إضافية.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 11971550
+  "fileSize": 11972078
 }
