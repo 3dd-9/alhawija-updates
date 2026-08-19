@@ -1,10 +1,10 @@
 {
-  "versionCode": 457,
-  "versionName": "3.9.6",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.6/alhawija-release.apk",
-  "sha256": "a271483792b0be34219838eff977a26dc96853b301e887f4d094e1be34181f75",
-  "releaseNotes": "إصلاح مشكلة استبدال إشعار الأذان بإشعار المواقيت أثناء التحديث كل دقيقة؛ يبقى إشعار الأذان وزر الإيقاف فعالين حتى انتهاء الأذان أو إيقافه يدويًا.",
+  "versionCode": 458,
+  "versionName": "3.9.7",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.7/alhawija-release.apk",
+  "sha256": "a63d869ed6ecad3c57ced4b611c8c732183c6d421dbe32b424ade4b66f283850",
+  "releaseNotes": "تعريب أسماء الصلاة داخل إشعار وقت الصلاة وإعادة ترتيب إشعار الأذان بتخطيط RTL عصري مع إبراز اسم الصلاة وزر إيقاف الأذان.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 5135210
+  "fileSize": 5135918
 }
