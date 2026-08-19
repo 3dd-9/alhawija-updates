@@ -1,10 +1,10 @@
 {
-  "versionCode": 467,
-  "versionName": "3.10.6",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.6/alhawija-release.apk",
-  "sha256": "cf119321a2f2e79306e0ed2a2d99db96bc56dcd674807539fa9e0bce8126de7c",
-  "releaseNotes": "إضافة إيقاف الأذان فورًا عند الضغط على زر خفض الصوت الفيزيائي أثناء تشغيل الأذان، مع بقاء زر الصوت طبيعيًا خارج الأذان.",
+  "versionCode": 468,
+  "versionName": "3.10.7",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.7/alhawija-release.apk",
+  "sha256": "28b69c5a9295df0845633300e72b56a9dde11fc0a2718d1018d501ebbe347cdb",
+  "releaseNotes": "تقوية Release عبر R8 وتشويش الكود وتقليص الموارد، تشفير إعدادات التطبيق باستخدام Android Keystore، وفحص شهادة التوقيع الرسمية ومنع تشغيل النسخ المعدلة قدر الإمكان مع الحفاظ على التحديثات الرسمية.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 13750292
+  "fileSize": 9107640
 }
