@@ -1,10 +1,10 @@
 {
-  "versionCode": 459,
-  "versionName": "3.9.8",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.8/alhawija-release.apk",
-  "sha256": "d3b3be214156678cffa4a036c41aabc1cc66c41209767bdcbaa9fdd093414909",
-  "releaseNotes": "إضافة أربعة أصوات أذان مدمجة بأسماء المؤذنين مع معاينة واختيار وحفظ دون إنترنت، ودعم صوت MP3 مخصص من الجهاز.",
+  "versionCode": 460,
+  "versionName": "3.9.9",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.9/alhawija-release.apk",
+  "sha256": "ca5eaedac29c078733dcec7ecd730a15cc02b1f138f95ee56520384e45f89acf",
+  "releaseNotes": "تقليل حجم التطبيق بنحو 36.33% عبر ضغط أصوات الأذان إلى MP3 أحادي القناة 64 kbps مع إبقاء الأصوات الأربعة والمعاينة والاختيار.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 18799490
+  "fileSize": 11970242
 }
