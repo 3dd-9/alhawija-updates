@@ -1,10 +1,10 @@
 {
-  "versionCode": 460,
-  "versionName": "3.9.9",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.9.9/alhawija-release.apk",
-  "sha256": "ca5eaedac29c078733dcec7ecd730a15cc02b1f138f95ee56520384e45f89acf",
-  "releaseNotes": "تقليل حجم التطبيق بنحو 36.33% عبر ضغط أصوات الأذان إلى MP3 أحادي القناة 64 kbps مع إبقاء الأصوات الأربعة والمعاينة والاختيار.",
+  "versionCode": 461,
+  "versionName": "3.10.0",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.0/alhawija-release.apk",
+  "sha256": "fa9e76865fc9ca6621dc0a8e3c40fbec9ff29750af79be4871f013138a9d6163",
+  "releaseNotes": "إصلاح التحديث: يستطيع المستخدم الخروج أثناء تنزيل APK، ويظهر إشعار تقدّم ثم إشعار جاهزية؛ يبدأ التثبيت فقط عند ضغط المستخدم على الإشعار.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 11970242
+  "fileSize": 11971550
 }
