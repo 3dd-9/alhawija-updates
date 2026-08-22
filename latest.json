@@ -1,10 +1,10 @@
 {
-  "versionCode": 473,
-  "versionName": "3.10.12",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.12/alhawija-release-3.10.12.apk",
-  "sha256": "dcd74be1003fa9b3dc3117ef91ebf55d2606cf95218639be92c4e87286980ab1",
-  "releaseNotes": "إصلاح تأخر الأذان وتعليقه، تشغيل الخدمة بسرعة أكبر عند قفل الشاشة، منع نبضة الإشعارات من إلغاء منبه الصلاة، وقناة تنبيه عاجلة جديدة. الشروق صامت دائمًا.",
+  "versionCode": 474,
+  "versionName": "3.10.13",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.13/alhawija-release-3.10.13.apk",
+  "sha256": "b432499e0f6e56624d8dea99b857a4f4eba1de252f6552957e8785fa80e27e90",
+  "releaseNotes": "حل شامل لتأخر الأذان: منبه أساسي واحتياطي، Direct Boot، تشغيل الخدمة فورًا، حماية من الأذان المتأخر والتكرار، وصوت المنبه عند قفل الجهاز. الشروق صامت دائمًا.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 9108484
+  "fileSize": 9108752
 }
