@@ -1,10 +1,10 @@
 {
-  "versionCode": 474,
-  "versionName": "3.10.13",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.13/alhawija-release-3.10.13.apk",
-  "sha256": "b432499e0f6e56624d8dea99b857a4f4eba1de252f6552957e8785fa80e27e90",
-  "releaseNotes": "حل شامل لتأخر الأذان: منبه أساسي واحتياطي، Direct Boot، تشغيل الخدمة فورًا، حماية من الأذان المتأخر والتكرار، وصوت المنبه عند قفل الجهاز. الشروق صامت دائمًا.",
+  "versionCode": 475,
+  "versionName": "3.10.14",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.14/alhawija-release-3.10.14.apk",
+  "sha256": "f55426b1dd439e0e5c68b9f371d50158ee262eed9f3785044287d9d8d7eb7838",
+  "releaseNotes": "إصلاح تام للصوت والإشعار: ثلاث طبقات مستقلة للتنبيه، fallback تلقائي بين مصادر الصوت، منع اختفاء الإشعار عند تزامن المنبهات، ومسار استرداد يمنع الأذان المتأخر. الشروق صامت دائمًا.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 9108752
+  "fileSize": 9110528
 }
