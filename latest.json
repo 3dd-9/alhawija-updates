@@ -1,10 +1,10 @@
 {
-  "versionCode": 477,
-  "versionName": "3.10.16",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.16/alhawija-release-3.10.16.apk",
-  "sha256": "9df65c89a642f61668e1dc103ccf5e4632bb79df09793e35e61f456fa3e5dd4e",
-  "releaseNotes": "تصحيح زر Telegram تحت قسم التحديثات ليفتح القناة الرسمية مباشرة: https://t.me/ARhubiq",
+  "versionCode": 478,
+  "versionName": "3.10.17",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.17/alhawija-release-3.10.17.apk",
+  "sha256": "ae2568c56a2fb1fc0d3899fa7f994448a2509cd667e6c9dbbf457e6594002e17",
+  "releaseNotes": "إصلاح جذري لزر إيقاف الأذان: لا يعاد نشر إشعار جاري تفعيل التنبيه بعد الإيقاف، ولا يعيد مسار الاسترداد نفس الأذان.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 9110776
+  "fileSize": 9110984
 }
