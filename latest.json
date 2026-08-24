@@ -1,10 +1,10 @@
 {
-  "versionCode": 475,
-  "versionName": "3.10.14",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.14/alhawija-release-3.10.14.apk",
-  "sha256": "f55426b1dd439e0e5c68b9f371d50158ee262eed9f3785044287d9d8d7eb7838",
-  "releaseNotes": "إصلاح تام للصوت والإشعار: ثلاث طبقات مستقلة للتنبيه، fallback تلقائي بين مصادر الصوت، منع اختفاء الإشعار عند تزامن المنبهات، ومسار استرداد يمنع الأذان المتأخر. الشروق صامت دائمًا.",
+  "versionCode": 476,
+  "versionName": "3.10.15",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.15/alhawija-release-3.10.15.apk",
+  "sha256": "bc36ddcc1c995102ae09becf8c909c1a2de9554135c80cf30baf1fc037998486",
+  "releaseNotes": "إصلاح نهائي لتعارض الإشعارات: إشعار الأذان مستقل وثابت مع زر الإيقاف، ولا يتحول إلى إشعار المواقيت. تنظيف النسخ القديمة، مع استمرار طبقات الصوت الثلاث.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 9110528
+  "fileSize": 9110792
 }
