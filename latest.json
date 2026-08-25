@@ -1,9 +1,9 @@
 {
-  "versionCode": 482,
-  "versionName": "3.10.21",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.21/alhawija-release-3.10.21.apk",
-  "sha256": "722de2790976ad98dfdeffb9a0fce819a7106bac49dc4cd457905fc016875950",
-  "releaseNotes": "إضافة مسبحة إلكترونية عصرية بزيادة وتنقيص وإعادة ضبط، مع حفظ العدد تلقائيًا عند الخروج والعودة إلى التطبيق.",
+  "versionCode": 483,
+  "versionName": "3.10.22",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.22/alhawija-release-3.10.22.apk",
+  "sha256": "07884583caf91923c557628cedf6962bc9140ce361efeeb11c58110c075fa478",
+  "releaseNotes": "إضافة اختيار طريقة العد في المسبحة: الضغط على زر السبحة أو الضغط على أي مكان من مساحة الشاشة، مع ترتيب أزرار التحكم في الأسفل.",
   "minVersionCode": 0,
   "isForceUpdate": false,
   "fileSize": 9171379
