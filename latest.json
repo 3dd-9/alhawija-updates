@@ -1,9 +1,9 @@
 {
-  "versionCode": 484,
-  "versionName": "3.10.23",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.23/alhawija-release-3.10.23.apk",
-  "sha256": "cea62f74e45c6ba2bbc572ef397746a3c126e32892b31ff6207ead4042890e89",
-  "releaseNotes": "إعادة تصميم واجهة المسبحة واستبدال نافذة file:// بنافذة تأكيد عربية مخصصة داخل التطبيق عند تصفير العداد.",
+  "versionCode": 485,
+  "versionName": "3.10.24",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.24/alhawija-release-3.10.24.apk",
+  "sha256": "01d21ad6164f62d0e3457bc89a87aa6a74c36ec8b7d062c0148fffb852790dfc",
+  "releaseNotes": "تبسيط واجهة المسبحة: عداد بدائرة واحدة، أزرار التحكم فوق العداد، إزالة النصوص الزائدة، ومنع نافذة file:// عند إعادة الضبط.",
   "minVersionCode": 0,
   "isForceUpdate": false,
   "fileSize": 9171379
