@@ -1,10 +1,10 @@
 {
-  "versionCode": 480,
-  "versionName": "3.10.19",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.19/alhawija-release-3.10.19.apk",
-  "sha256": "8a1c00507aba545bdf222a8497d811021abd16c4ee202ff4246c39ef1435c400",
-  "releaseNotes": "إصلاح تكرار إشعار المواقيت وإزالة إشعار جاري تفعيل التنبيه بعد إيقاف الأذان.",
+  "versionCode": 481,
+  "versionName": "3.10.20",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.20/alhawija-release-3.10.20.apk",
+  "sha256": "5dd087ff33c718284f68fd8e13a31fc93086b02515308e3ef1066550e8dfe866",
+  "releaseNotes": "تحسين توافق تثبيت APK على أجهزة Realme وبعض مثبتات Android، مع الحفاظ على نفس مفتاح التوقيع الرسمي والتحقق من سلامة الملف قبل التثبيت.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 9110172
+  "fileSize": 9171399
 }
