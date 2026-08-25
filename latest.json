@@ -6,5 +6,5 @@
   "releaseNotes": "تحسين توافق تثبيت APK على أجهزة Realme وبعض مثبتات Android، مع الحفاظ على نفس مفتاح التوقيع الرسمي والتحقق من سلامة الملف قبل التثبيت.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 9171399
+  "fileSize": 9167283
 }
