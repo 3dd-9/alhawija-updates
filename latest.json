@@ -1,10 +1,10 @@
 {
-  "versionCode": 479,
-  "versionName": "3.10.18",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.18/alhawija-release-3.10.18.apk",
-  "sha256": "8148c7bb946e0448d86bcf05b0db26fc5e75a74f6df56f5fd9473b0ae8a79629",
-  "releaseNotes": "حذف بوصلة اتجاه القبلة بسبب عدم دقتها، مع الإبقاء على الأذكار وبقية ميزات التطبيق.",
+  "versionCode": 480,
+  "versionName": "3.10.19",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.19/alhawija-release-3.10.19.apk",
+  "sha256": "8a1c00507aba545bdf222a8497d811021abd16c4ee202ff4246c39ef1435c400",
+  "releaseNotes": "إصلاح تكرار إشعار المواقيت وإزالة إشعار جاري تفعيل التنبيه بعد إيقاف الأذان.",
   "minVersionCode": 0,
   "isForceUpdate": false,
-  "fileSize": 9110184
+  "fileSize": 9110172
 }
