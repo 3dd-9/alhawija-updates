@@ -1,9 +1,9 @@
 {
-  "versionCode": 486,
-  "versionName": "3.10.25",
-  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.25/alhawija-release-3.10.25.apk",
-  "sha256": "521d012604924d1286c8909a022967bb950b461947dc8bb980188f31acac53fe",
-  "releaseNotes": "حذف خياري طريقة العد، اعتماد الضغط على مساحة الشاشة، تكبير دائرة العداد ووضعها أسفل قليلًا، وتغيير خط الأرقام.",
+  "versionCode": 487,
+  "versionName": "3.10.26",
+  "downloadUrl": "https://github.com/3dd-9/alhawija-updates/releases/download/v3.10.26/alhawija-release-3.10.26.apk",
+  "sha256": "b0836bb7d01ca7e950efebeaea5e69882afa3355ad760f4c40ba9ea9c4a89ab7",
+  "releaseNotes": "إعادة اختيار وضعي العد، حذف العدد المحفوظ ورابط العودة من شاشة المسبحة، وإنزال دائرة العداد قرب موضع الإبهام.",
   "minVersionCode": 0,
   "isForceUpdate": false,
   "fileSize": 9171379
